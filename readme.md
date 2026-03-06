@@ -1,7 +1,7 @@
 # MTech Course
 
 ## OS Lectures:
-| Lecture No. | View Link (Online) |
+| Lecture No. | View(Online) |
 | :--- | :--- |
 | Lecture 1 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture1.ppt) |
 | Lecture 2 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture2.ppt) |
@@ -20,7 +20,7 @@
 
 ## ML-I Lectures:
 
-| Lecture No. | Topic | View Link (Online) |
+| Lecture No. | Topic | View(Online) |
 | :--- | :--- | :--- |
 | Lecture 1 | Linear Algebra | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Linear_Algebra_Review.pptx) |
 | Lecture 2 | Optimisation | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/2025_Optimization_Lecture_Updated_1.ppt) |
