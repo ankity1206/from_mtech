@@ -30,8 +30,8 @@ void display_matrix(int arr[][SIZE])
     }
 }
 
-int main()
-{
+int main(){
+    //trials1
     int i, j, k, a1[SIZE][SIZE], a2[SIZE][SIZE];
 
     // create shared memory
