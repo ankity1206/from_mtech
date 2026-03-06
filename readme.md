@@ -17,6 +17,7 @@
 | Lecture 12 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture12-Feb13.pptx) |
 | Lecture 13 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture13-Feb17.pptx) |
 | Lecture 14 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture14-March5.pptx) |
+| Lecture 15 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture15-March6.pptx) |
 
 ## ML-I Lectures:
 
