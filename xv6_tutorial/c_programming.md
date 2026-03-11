@@ -8,6 +8,7 @@ vim hello_world.c
 
 ## Step 2: Paste this code 
 ```c
+#include "kernel/types.h"
 #include "user/user.h"
 
 int main() {
