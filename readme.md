@@ -39,3 +39,65 @@
 | Lecture 14 | SVM | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Updated_2020_SVM_Lecture_1.pptx) |
 | Lecture 15 | Mid-Sem Revision | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/midsem_revision.pdf) |
 | Lecture 16 | Clustering-I | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Clustering%20_Slides_1.pptx) |
+
+
+## xv6 RISC-V Installation & Removal Guide (WSL2 / Ubuntu / Intel i5)
+
+This guide helps you set up the **xv6** teaching operating system on **Ubuntu (WSL2)** using an Intel i5 processor. Even though your CPU is Intel (x86), we use **QEMU** to emulate the RISC-V architecture for the best educational experience.
+
+---
+
+### 🛠 Part 1: Installation
+
+#### 1. Update Ubuntu
+Ensure your package list is current:
+```bash
+sudo apt-get update && sudo apt-get upgrade -y
+```
+
+#### 2. Install the RISC-V Toolchain & Emulator
+```bash
+sudo apt-get install -y git build-essential gdb-multiarch qemu-system-misc \
+  gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu
+```
+
+#### 3. Clone the xv6 Source Code
+```bash
+cd ~
+git clone https://github.com
+cd xv6-riscv
+```
+
+#### 4. Compile and Launch
+```bash
+make qemu-nox
+```
+
+> Success looks like: A prompt that says init: starting sh followed by a $.
+> Test it: Type ls to see files or echo hello xv6.
+
+##### 5. How to Exit
+Since you are in "no-window" mode (nox), you cannot just close the window.
+> Press Ctrl + A.
+> Release both keys.
+> Press X
+
+
+### Part 2: Complete Removal
+
+#### 1. Delete the xv6 Source Code
+```bash
+rm -rf ~/xv6-riscv
+```
+
+#### 2. Uninstall Development Tools
+```bash
+sudo apt-get purge -y qemu-system-misc gcc-riscv64-linux-gnu \
+  binutils-riscv64-linux-gnu gdb-multiarch
+```
+
+##### 3. Cleanup Dependencies
+```bash
+sudo apt-get autoremove -y
+```
+
