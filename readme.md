@@ -82,14 +82,6 @@ Since you are in "no-window" mode (nox), you cannot just close the window.
 Exit QEMU: <kbd>Ctrl</kbd> + <kbd>A</kbd>, then <kbd>X</kbd>
 </p>
 
-kbd {
-  background: #eee;
-  border: 1px solid #aaa;
-  border-radius: 3px;
-  padding: 2px 5px;
-}
-
-
 #### 6. To enter xv6:
 ```bash
 cd ~/xv6
