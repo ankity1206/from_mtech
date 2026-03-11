@@ -70,7 +70,7 @@ cd xv6-riscv
 
 #### 4. Compile and Launch
 ```bash
-make qemu-nox
+make CPUS=1 qemu
 ```
 
 > Success looks like: A prompt that says init: starting sh followed by a $.
