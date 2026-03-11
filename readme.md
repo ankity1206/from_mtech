@@ -75,6 +75,7 @@ make CPUS=1 qemu
 
 > Success looks like: A prompt that says init: starting sh followed by a $.
 > Test it: Type ls to see files or echo hello xv6.
+> To enter xv6 back: make qemu
 
 ##### 5. How to Exit
 Since you are in "no-window" mode (nox), you cannot just close the window.
