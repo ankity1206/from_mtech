@@ -57,7 +57,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 #### 2. Install the RISC-V Toolchain & Emulator
 ```bash
-sudo apt-get install -y git build-essential gdb-multiarch qemu-system-misc \
+sudo apt install -y git build-essential gdb-multiarch qemu-system-misc \
   gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu
 ```
 
@@ -78,9 +78,17 @@ make CPUS=1 qemu
 
 ##### 5. How to Exit
 Since you are in "no-window" mode (nox), you cannot just close the window.
-> Press Ctrl + A.
-> Release both keys.
-> Press X
+<p>
+Exit QEMU: <kbd>Ctrl</kbd> + <kbd>A</kbd>, then <kbd>X</kbd>
+</p>
+
+kbd {
+  background: #eee;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  padding: 2px 5px;
+}
+
 
 #### 6. To enter xv6:
 ```bash
@@ -96,7 +104,7 @@ rm -rf ~/xv6-riscv
 
 #### 2. Uninstall Development Tools
 ```bash
-sudo apt-get purge -y qemu-system-misc gcc-riscv64-linux-gnu \
+sudo apt purge -y qemu-system-misc gcc-riscv64-linux-gnu \
   binutils-riscv64-linux-gnu gdb-multiarch
 ```
 
