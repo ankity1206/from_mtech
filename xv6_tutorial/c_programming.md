@@ -26,7 +26,7 @@ Add your file in UPROGS (dont write the extension of the file)
 UPROGS=\
     $U/_cat\
     $U/_echo\
-    $U/_hello_world\    <-- Add this (ensure the backslash \ is at the end)
+    $U/_hello_world\    <-- Add this (make sure the backslash \ is at the end)
     ...
 
 ```
