@@ -1,4 +1,4 @@
-# xv6 RISC-V Installation & Removal Guide (WSL2 / Ubuntu / Intel i5)
+# xv6 RISC-V Installation & Removal Guide
 
 To set up the **xv6** teaching operating system on **Ubuntu (WSL2)** using an Intel processor.
 
