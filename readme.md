@@ -64,7 +64,7 @@ sudo apt-get install -y git build-essential gdb-multiarch qemu-system-misc \
 #### 3. Clone the xv6 Source Code
 ```bash
 cd ~
-git clone https://github.com
+git clone --depth 1 https://github.com/mit-pdos/xv6-riscv.git
 cd xv6-riscv
 ```
 
