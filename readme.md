@@ -43,7 +43,7 @@
 
 ## xv6 RISC-V Installation & Removal Guide (WSL2 / Ubuntu / Intel i5)
 
-This guide helps you set up the **xv6** teaching operating system on **Ubuntu (WSL2)** using an Intel i5 processor. Even though your CPU is Intel (x86), we use **QEMU** to emulate the RISC-V architecture for the best educational experience.
+To set up the **xv6** teaching operating system on **Ubuntu (WSL2)** using an Intel processor.
 
 ---
 
