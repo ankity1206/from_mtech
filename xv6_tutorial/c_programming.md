@@ -1,7 +1,7 @@
 # Getting Started:
 
 ## Step 1: Create the C file on Ubuntu
-Create/open a file in the user/ directory of xv6:
+Create/open a file in the <kd>user/</kd> directory of xv6:
 ```bash
 vim hello_world.c
 ```
