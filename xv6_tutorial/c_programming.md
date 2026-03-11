@@ -21,7 +21,7 @@ int main() {
 cd ~/xv6
 vim Makefile
 ```
-Add your file in UPROGS (dont write the extension of the file)
+Add your file name in UPROGS (don't write the extension of the file)
 ```makefile
 UPROGS=\
     $U/_cat\
