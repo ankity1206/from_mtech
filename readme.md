@@ -83,7 +83,7 @@ Since you are in "no-window" mode (nox), you cannot just close the window.
 > Press X
 
 
-### Part 2: Complete Removal
+### 🗑 Part 2: Complete Removal
 
 #### 1. Delete the xv6 Source Code
 ```bash
