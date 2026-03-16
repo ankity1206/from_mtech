@@ -47,6 +47,10 @@
 | Lecture 14 | SVM | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Updated_2020_SVM_Lecture_1.pptx) |
 | Lecture 15 | Mid-Sem Revision | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/midsem_revision.pdf) |
 | Lecture 16 | Clustering-I | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Clustering%20_Slides_1.pptx) |
+| Lecture 17 | K-Means Matrix | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/kMeansMatrix.pdf) |
+| Lecture 18 | PCA-LDA | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/PCA_LDA_Dimensionality_Reduction.ppsx) |
+| Lecture 19 | MLE-MAP | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/MLE_MAP.pptx) |
+
 
 
 
