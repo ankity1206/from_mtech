@@ -1,4 +1,4 @@
-# MTech Course
+# MTech Notes
 
 ## OS Lectures
 | Lecture No. | View(Online) |
