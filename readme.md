@@ -1,6 +1,6 @@
 # MTech Course
 
-## OS Lectures:
+## OS Lectures
 | Lecture No. | View(Online) |
 | :--- | :--- |
 | Lecture 1 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture1.ppt) |
@@ -27,7 +27,7 @@
 | Lab-I | Mini Shell(with forking) | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab1) |
 | Lab-II | Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab2) |
 
-## ML-I Lectures:
+## ML-I Lectures
 
 | Lecture No. | Topic | View(Online) |
 | :--- | :--- | :--- |
@@ -51,7 +51,8 @@
 | Lecture 18 | PCA-LDA | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/PCA_LDA_Dimensionality_Reduction.ppsx) |
 | Lecture 19 | MLE-MAP | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/MLE_MAP.pptx) |
 
-## DBMS Lectures:
+## DBMS Lectures
+
 | Lecture No. | Topic | View(Online) |
 | :--- | :--- | :--- |
 | Lecture 1 | Introduction to Databases | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/Introduction%20to%20Databases.pdf)|
