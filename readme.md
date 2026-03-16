@@ -21,6 +21,12 @@
 | Lecture 16 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture16-March12.pptx) |
 | Lecture 17 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture17-March13.pptx) |
 
+### OS Lab
+| Lab | Topic| View |
+| :--- | :--- | :--- |
+| Lab-I | Mini Shell(with forking) | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/Lab/OS_Lab/Lab1) |
+| Lab-II | Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/Lab/OS_Lab/Lab2) |
+
 ## ML-I Lectures:
 
 | Lecture No. | Topic | View(Online) |
