@@ -51,6 +51,14 @@
 | Lecture 18 | PCA-LDA | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/PCA_LDA_Dimensionality_Reduction.ppsx) |
 | Lecture 19 | MLE-MAP | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/MLE_MAP.pptx) |
 
-
-
-
+## DBMS Lectures:
+| Lecture No. | Topic | View(Online) |
+| :--- | :--- | :--- |
+| Lecture 1 | Introduction to Databases | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/Introduction%20to%20Databases.pdf)|
+| Lecture 2 | Mathematical Preliminaries | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/Mathematical%20Operations.pdf)|
+| Lecture 3 | Relational Data Model | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/Relational%20Data%20Model.pdf)|
+| Lecture 4 | Database Structuring and Querying with SQL | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/basics%20of%20SQL.pdf)|
+| Lecture 5 | Database Indexing | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/Trees.pdf)|
+| Lecture 6 | Database Normalization | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/Data%20Base%20Normalisation.pdf)|
+| Lecture 7 | Query Optimization | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/Query%20Optimisation.pdf)|
+| Lecture 8 | Transaction Processing | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/Class%20VII.pdf)|
