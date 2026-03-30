@@ -73,10 +73,10 @@
 
 | Lab | Topic | View(Online) |
 | :--- | :--- | :--- |
-| Lab 0 | MySQL - Getting Ready | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/DBMS%20Lab/Lab%200.pdf)|
-| Lab I | MySQL - Data Definition | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/DBMS%20Lab/Lab%20I.pdf)|
-| Lab II | MySQL - Data Manipulation | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/DBMS%20Lab/Lab%20II.pdf)|
-| Lab III | MySQL - Advanced Features | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/DBMS%20Lab/Lab%20III.pdf)|
-| Lab IV | MySQL - Integrity Control | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/DBMS%20Lab/Lab%20IV.pdf)|
-| Lab V | MongoDB | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/DBMS%20Lab/Lab%20V.pdf)|
-| Lab VI | MySQL - Professional Coding | [View Online](https://github.com/ankity1206/from_mtech/blob/main/DBMS/DBMS%20Lab/Lab%20VI.pdf)|
+| Lab 0 | MySQL - Getting Ready | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%200.pdf)|
+| Lab I | MySQL - Data Definition | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20I.pdf)|
+| Lab II | MySQL - Data Manipulation | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20II.pdf)|
+| Lab III | MySQL - Advanced Features | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20III.pdf)|
+| Lab IV | MySQL - Integrity Control | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20IV.pdf)|
+| Lab V | MongoDB | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20V.pdf)|
+| Lab VI | MySQL - Professional Coding | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20VI.pdf)|
