@@ -56,6 +56,11 @@
 | Lecture 20 | Spectral Clustering Introdction | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Spectral%20Clustering%20Introduction.pdf) |
 | Lecture 21 | Expectation Maximization | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/EM_MTech(CS)_1.pps) |
 | Lecture 22 | Multivariate Probability Distributions | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Multivariate%20Probability%20Distributions.pdf) |
+| Lecture 23 | Expectation Maximization: Detailed | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/EM_Notes.pdf) |
+| Lecture 24 | 1-D Gaussian Mixture | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/1d_Gaussian_Mixture.pdf) |
+| Lecture 25 | Gaussian Mixture model for clustering | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/GMM_MTech(CS).pdf) |
+| Lecture 26 | ANN | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/ANN_Slides.pptx) |
+| Lecture 26 | Deep Learning-I | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Deep%20Machine%20Learning%201.pptx) |
 
 ## DBMS Lectures
 
