@@ -41,20 +41,20 @@
 | Lecture 6 | Ensemble | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/2025_Ensemble_Talk.pptx) |
 | Lecture 7 | Decision Tree Classifier | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/A%20First%20Look%20at%20the%20Decision%20Tree%20Classifiers.pptx) |
 | Lecture 8 | Boosting Math | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Boosting_Math.pptx) |
-| Lecture 9 | Gradient Boosting Hand Tracing | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/Gradient_Boosting_Hand_Tracing.pdf) |
-| Lecture 10 | Gradient Boosting Example | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/gradient_boosting_Example.pdf) |
-| Lecture 11 | Boosting Hand Tracing-I | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/Boosting_Hand_Trace_1.pdf) |
-| Lecture 12 | Boosting Hand Tracing-II | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/Boosting_Hand_Trace_2.pdf) |
-| Lecture 13 | Constrained Optimisation | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/Constrained%20Optimitation-.pdf) |
+| Lecture 9 | Gradient Boosting Hand Tracing | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Gradient_Boosting_Hand_Tracing.pdf) |
+| Lecture 10 | Gradient Boosting Example | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/gradient_boosting_Example.pdf) |
+| Lecture 11 | Boosting Hand Tracing-I | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Boosting_Hand_Trace_1.pdf) |
+| Lecture 12 | Boosting Hand Tracing-II | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Boosting_Hand_Trace_2.pdf) |
+| Lecture 13 | Constrained Optimisation | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Constrained%20Optimitation-.pdf) |
 | Lecture 14 | SVM | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Updated_2020_SVM_Lecture_1.pptx) |
-| Lecture 15 | Mid-Sem Revision | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/midsem_revision.pdf) |
+| Lecture 15 | Mid-Sem Revision | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/midsem_revision.pdf) |
 | Lecture 16 | Clustering | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Clustering%20_Slides_1.pptx) |
-| Lecture 17 | K-Means Matrix | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/kMeansMatrix.pdf) |
+| Lecture 17 | K-Means Matrix | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/kMeansMatrix.pdf) |
 | Lecture 18 | PCA-LDA | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/PCA_LDA_Dimensionality_Reduction.ppsx) |
 | Lecture 19 | MLE-MAP | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/MLE_MAP.pptx) |
-| Lecture 20 | Spectral Clustering Introdction | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/Spectral%20Clustering%20Introduction.pdf) |
+| Lecture 20 | Spectral Clustering Introdction | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Spectral%20Clustering%20Introduction.pdf) |
 | Lecture 21 | Expectation Maximization | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/EM_MTech(CS)_1.pps) |
-| Lecture 22 | Multivariate Probability Distributions | [View Online](https://github.com/ankity1206/from_mtech/blob/main/ML-1/Multivariate%20Probability%20Distributions.pdf) |
+| Lecture 22 | Multivariate Probability Distributions | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Multivariate%20Probability%20Distributions.pdf) |
 
 ## DBMS Lectures
 
