@@ -1,106 +1,82 @@
 # MTech Notes
 
-<div style="display: flex; flex-direction: column; gap: 24px;">
+## OS Lectures
+| Lecture No. | View(Online) |
+| :--- | :--- |
+| Lecture 1 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture1.ppt) |
+| Lecture 2 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture2.ppt) |
+| Lecture 3 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture3-Jan15.pptx) |
+| Lecture 4 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture4-Jan16.pptx) |
+| Lecture 5 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture5-Jan28.pptx) |
+| Lecture 6 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture6-Jan29.ppt) |
+| Lecture 7 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture7-Jan30.ppt) |
+| Lecture 8 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture8-Feb4.pptx) |
+| Lecture 9 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture9-Feb5.pptx) |
+| Lecture 10 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture10-Feb6.pptx) |
+| Lecture 11 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture11-Feb12.pptx) |
+| Lecture 12 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture12-Feb13.pptx) |
+| Lecture 13 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture13-Feb17.pptx) |
+| Lecture 14 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture14-March5.pptx) |
+| Lecture 15 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture15-March6.pptx) |
+| Lecture 16 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture16-March12.pptx) |
+| Lecture 17 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture17-March13.pptx) |
+| Lecture 18 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture18-March19.pptx) |
+    
+### OS Lab    
+| Lab | Topic| View |
+| :--- | :--- | :--- |
+| Lab-I | Mini Shell(with forking) | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab1) |
+| Lab-II | Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab2) |
+| Lab-III | Semaphores & Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab3) |
 
-<!-- ================= OS SECTION ================= -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+## ML-I Lectures
 
-<div style="flex: 2; min-width: 300px; background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<h3 style="margin-top: 0; color: #58a6ff;">📘 OS Lectures</h3>
+| Lecture No. | Topic | View(Online) |
+| :--- | :--- | :--- |
+| Lecture 1 | Linear Algebra | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Linear_Algebra_Review.pptx) |
+| Lecture 2 | Optimisation | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/2025_Optimization_Lecture_Updated_1.ppt) |
+| Lecture 3 | Linear Regression-1 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Regression_Part_1.pptx) |
+| Lecture 4 | Linear Regression-2 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Regression_2.pptx) |
+| Lecture 5 | Logistic Regression | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Logistic_Regression.pptx) |
+| Lecture 6 | Ensemble | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/2025_Ensemble_Talk.pptx) |
+| Lecture 7 | Decision Tree Classifier | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/A%20First%20Look%20at%20the%20Decision%20Tree%20Classifiers.pptx) |
+| Lecture 8 | Boosting Math | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Boosting_Math.pptx) |
+| Lecture 9 | Gradient Boosting Hand Tracing | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Gradient_Boosting_Hand_Tracing.pdf) |
+| Lecture 10 | Gradient Boosting Example | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/gradient_boosting_Example.pdf) |
+| Lecture 11 | Boosting Hand Tracing-I | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Boosting_Hand_Trace_1.pdf) |
+| Lecture 12 | Boosting Hand Tracing-II | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Boosting_Hand_Trace_2.pdf) |
+| Lecture 13 | Constrained Optimisation | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Constrained%20Optimitation-.pdf) |
+| Lecture 14 | SVM | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Updated_2020_SVM_Lecture_1.pptx) |
+| Lecture 15 | Mid-Sem Revision | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/midsem_revision.pdf) |
+| Lecture 16 | Clustering | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Clustering%20_Slides_1.pptx) |
+| Lecture 17 | K-Means Matrix | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/kMeansMatrix.pdf) |
+| Lecture 18 | PCA-LDA | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/PCA_LDA_Dimensionality_Reduction.ppsx) |
+| Lecture 19 | MLE-MAP | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/MLE_MAP.pptx) |
+| Lecture 20 | Spectral Clustering Introdction | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Spectral%20Clustering%20Introduction.pdf) |
+| Lecture 21 | Expectation Maximization | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/EM_MTech(CS)_1.pps) |
+| Lecture 22 | Multivariate Probability Distributions | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Multivariate%20Probability%20Distributions.pdf) |
 
-<table style="width: 100%; border-collapse: collapse;">
-<tr style="border-bottom: 1px solid #30363d;">
-<th align="left" style="padding: 8px;">Lecture</th>
-<th align="left" style="padding: 8px;">View</th>
-</tr>
+## DBMS Lectures
 
-<tr><td style="padding:8px;">Lecture 1</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture1.ppt">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 2</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture2.ppt">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 3</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture3-Jan15.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 4</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture4-Jan16.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 5</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture5-Jan28.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 6</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture6-Jan29.ppt">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 7</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture7-Jan30.ppt">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 8</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture8-Feb4.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 9</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture9-Feb5.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 10</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture10-Feb6.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 11</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture11-Feb12.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 12</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture12-Feb13.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 13</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture13-Feb17.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 14</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture14-March5.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 15</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture15-March6.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 16</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture16-March12.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 17</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture17-March13.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 18</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture18-March19.pptx">🔗 View</a></td></tr>
-</table>
-</div>
+| Lecture No. | Topic | View(Online) |
+| :--- | :--- | :--- |
+| Lecture 1 | Introduction to Databases | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Introduction%20to%20Databases.pdf)|
+| Lecture 2 | Mathematical Preliminaries | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Mathematical%20Operations.pdf)|
+| Lecture 3 | Relational Data Model | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Relational%20Data%20Model.pdf)|
+| Lecture 4 | Database Structuring and Querying with SQL | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/basics%20of%20SQL.pdf)|
+| Lecture 5 | Database Indexing | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Trees.pdf)|
+| Lecture 6 | Database Normalization | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Data%20Base%20Normalisation.pdf)|
+| Lecture 7 | Query Optimization | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Query%20Optimisation.pdf)|
+| Lecture 8 | Transaction Processing | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Class%20VII.pdf)|
 
-<div style="flex: 1; min-width: 260px; background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<h3 style="margin-top: 0; color: #58a6ff;">🧪 OS Lab</h3>
+### DBMS Lab
 
-<table style="width: 100%; border-collapse: collapse;">
-<tr style="border-bottom: 1px solid #30363d;">
-<th align="left" style="padding: 8px;">Lab</th>
-<th align="left" style="padding: 8px;">Topic</th>
-<th align="left" style="padding: 8px;">View</th>
-</tr>
-
-<tr><td style="padding:8px;">Lab-I</td><td>Mini Shell</td><td><a href="https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab1">🔗</a></td></tr>
-<tr><td style="padding:8px;">Lab-II</td><td>Threads</td><td><a href="https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab2">🔗</a></td></tr>
-<tr><td style="padding:8px;">Lab-III</td><td>Semaphores</td><td><a href="https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab3">🔗</a></td></tr>
-</table>
-</div>
-
-</div>
-
-<!-- ================= ML SECTION ================= -->
-<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<h3 style="margin-top: 0; color: #58a6ff;">🤖 ML-I Lectures</h3>
-
-<table style="width: 100%; border-collapse: collapse;">
-<tr style="border-bottom: 1px solid #30363d;">
-<th align="left" style="padding: 8px;">Lecture</th>
-<th align="left" style="padding: 8px;">Topic</th>
-<th align="left" style="padding: 8px;">View</th>
-</tr>
-
-<tr><td style="padding:8px;">Lecture 1</td><td>Linear Algebra</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Linear_Algebra_Review.pptx">🔗</a></td></tr>
-<tr><td style="padding:8px;">Lecture 2</td><td>Optimisation</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/2025_Optimization_Lecture_Updated_1.ppt">🔗</a></td></tr>
-<tr><td style="padding:8px;">Lecture 3</td><td>Linear Regression-1</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Regression_Part_1.pptx">🔗</a></td></tr>
-<!-- keep rest same -->
-</table>
-</div>
-
-<!-- ================= DBMS SECTION ================= -->
-<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<h3 style="margin-top: 0; color: #58a6ff;">🗄️ DBMS Lectures</h3>
-
-<table style="width: 100%; border-collapse: collapse;">
-<tr style="border-bottom: 1px solid #30363d;">
-<th align="left" style="padding: 8px;">Lecture</th>
-<th align="left" style="padding: 8px;">Topic</th>
-<th align="left" style="padding: 8px;">View</th>
-</tr>
-
-<tr><td style="padding:8px;">Lecture 1</td><td>Introduction to Databases</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Introduction%20to%20Databases.pdf">🔗</a></td></tr>
-<!-- keep rest same -->
-</table>
-</div>
-
-<!-- ================= DBMS LAB ================= -->
-<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-<h3 style="margin-top: 0; color: #58a6ff;">🧪 DBMS Lab</h3>
-
-<table style="width: 100%; border-collapse: collapse;">
-<tr style="border-bottom: 1px solid #30363d;">
-<th align="left" style="padding: 8px;">Lab</th>
-<th align="left" style="padding: 8px;">Topic</th>
-<th align="left" style="padding: 8px;">View</th>
-</tr>
-
-<tr><td style="padding:8px;">Lab 0</td><td>MySQL - Getting Ready</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%200.pdf">🔗</a></td></tr>
-<!-- keep rest same -->
-</table>
-</div>
-
-</div>
+| Lab | Topic | View(Online) |
+| :--- | :--- | :--- |
+| Lab 0 | MySQL - Getting Ready | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%200.pdf)|
+| Lab I | MySQL - Data Definition | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20I.pdf)|
+| Lab II | MySQL - Data Manipulation | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20II.pdf)|
+| Lab III | MySQL - Advanced Features | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20III.pdf)|
+| Lab IV | MySQL - Integrity Control | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20IV.pdf)|
+| Lab V | MongoDB | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20V.pdf)|
+| Lab VI | MySQL - Professional Coding | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/DBMS%20Lab/Lab%20VI.pdf)|
