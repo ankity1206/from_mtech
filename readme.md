@@ -1,6 +1,9 @@
 # MTech Notes
 
 ## OS Lectures
+<div style="display: flex; gap: 20px;">
+  <div>
+
 | Lecture No. | View(Online) |
 | :--- | :--- |
 | Lecture 1 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture1.ppt) |
@@ -21,14 +24,20 @@
 | Lecture 16 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture16-March12.pptx) |
 | Lecture 17 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture17-March13.pptx) |
 | Lecture 18 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture18-March19.pptx) |
-
-### OS Lab
+</div>
+  <div>
+    
+<div style="display: flex; gap: 20px;">
+  <div>
+    
 | Lab | Topic| View |
 | :--- | :--- | :--- |
 | Lab-I | Mini Shell(with forking) | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab1) |
 | Lab-II | Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab2) |
 | Lab-III | Semaphores & Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab3) |
-
+</div>
+  <div>
+    
 ## ML-I Lectures
 
 | Lecture No. | Topic | View(Online) |
