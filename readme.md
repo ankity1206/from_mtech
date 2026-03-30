@@ -2,44 +2,6 @@
 
 ## OS Lectures
 
-<h3>Left Table</h3>
-
-<table>
-<tr><td style="padding:8px;">Lecture 1</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture1.ppt">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 2</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture2.ppt">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 3</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture3-Jan15.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 4</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture4-Jan16.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 5</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture5-Jan28.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 6</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture6-Jan29.ppt">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 7</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture7-Jan30.ppt">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 8</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture8-Feb4.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 9</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture9-Feb5.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 10</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture10-Feb6.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 11</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture11-Feb12.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 12</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture12-Feb13.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 13</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture13-Feb17.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 14</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture14-March5.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 15</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture15-March6.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 16</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture16-March12.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 17</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture17-March13.pptx">🔗 View</a></td></tr>
-<tr><td style="padding:8px;">Lecture 18</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture18-March19.pptx">🔗 View</a></td></tr>
-
-
-
-<h3>Right Table</h3>
-<tr>
-<th>Column 1</th>
-<th>Column 2</th>
-</tr>
-
-<tr>
-<td>Data</td>
-<td>Data</td>
-</tr>
-
-</table>
-
-
 | Lecture No. | View(Online) |
 | :--- | :--- |
 | Lecture 1 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture1.ppt) |
