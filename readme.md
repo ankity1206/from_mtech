@@ -1,8 +1,10 @@
 # MTech Notes
 
-## OS Lectures
-<div style="display: flex; gap: 20px;">
-  <div>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; border: none; padding-right: 40px;">
+
+### OS Lectures
 
 | Lecture No. | View(Online) |
 | :--- | :--- |
@@ -24,19 +26,22 @@
 | Lecture 16 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture16-March12.pptx) |
 | Lecture 17 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture17-March13.pptx) |
 | Lecture 18 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture18-March19.pptx) |
-</div>
-  <div>
-    
-<div style="display: flex; gap: 20px;">
-  <div>
-    
+
+    </td>
+    <td style="vertical-align: top; border: none;">
+
+### OS Lab
+
 | Lab | Topic| View |
 | :--- | :--- | :--- |
 | Lab-I | Mini Shell(with forking) | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab1) |
 | Lab-II | Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab2) |
 | Lab-III | Semaphores & Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab3) |
-</div>
-  <div>
+
+    </td>
+  </tr>
+</table>
+
     
 ## ML-I Lectures
 
