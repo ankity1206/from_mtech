@@ -1,46 +1,78 @@
 # MTech Notes
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; border: none; padding-right: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-### OS Lectures
+  <!-- LEFT CARD -->
+  <div style="flex: 2; min-width: 300px; background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
 
-| Lecture No. | View(Online) |
-| :--- | :--- |
-| Lecture 1 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture1.ppt) |
-| Lecture 2 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture2.ppt) |
-| Lecture 3 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture3-Jan15.pptx) |
-| Lecture 4 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture4-Jan16.pptx) |
-| Lecture 5 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture5-Jan28.pptx) |
-| Lecture 6 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture6-Jan29.ppt) |
-| Lecture 7 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture7-Jan30.ppt) |
-| Lecture 8 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture8-Feb4.pptx) |
-| Lecture 9 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture9-Feb5.pptx) |
-| Lecture 10 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture10-Feb6.pptx) |
-| Lecture 11 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture11-Feb12.pptx) |
-| Lecture 12 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture12-Feb13.pptx) |
-| Lecture 13 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture13-Feb17.pptx) |
-| Lecture 14 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture14-March5.pptx) |
-| Lecture 15 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture15-March6.pptx) |
-| Lecture 16 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture16-March12.pptx) |
-| Lecture 17 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture17-March13.pptx) |
-| Lecture 18 | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture18-March19.pptx) |
+    <h3 style="margin-top: 0; color: #58a6ff;">📘 OS Lectures</h3>
 
-    </td>
-    <td style="vertical-align: top; border: none;">
+    <table style="width: 100%; border-collapse: collapse;">
 
-### OS Lab
+      <tr style="border-bottom: 1px solid #30363d;">
+        <th align="left" style="padding: 8px;">Lecture</th>
+        <th align="left" style="padding: 8px;">View</th>
+      </tr>
 
-| Lab | Topic| View |
-| :--- | :--- | :--- |
-| Lab-I | Mini Shell(with forking) | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab1) |
-| Lab-II | Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab2) |
-| Lab-III | Semaphores & Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab3) |
+      <tr><td style="padding:8px;">Lecture 1</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture1.ppt">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 2</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture2.ppt">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 3</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture3-Jan15.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 4</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture4-Jan16.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 5</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture5-Jan28.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 6</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture6-Jan29.ppt">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 7</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture7-Jan30.ppt">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 8</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture8-Feb4.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 9</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture9-Feb5.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 10</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture10-Feb6.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 11</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture11-Feb12.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 12</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture12-Feb13.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 13</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture13-Feb17.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 14</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture14-March5.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 15</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture15-March6.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 16</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture16-March12.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 17</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture17-March13.pptx">🔗 View</a></td></tr>
+      <tr><td style="padding:8px;">Lecture 18</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture18-March19.pptx">🔗 View</a></td></tr>
 
-    </td>
-  </tr>
-</table>
+    </table>
+
+  </div>
+
+  <!-- RIGHT CARD -->
+  <div style="flex: 1; min-width: 260px; background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+
+    <h3 style="margin-top: 0; color: #58a6ff;">🧪 OS Lab</h3>
+
+    <table style="width: 100%; border-collapse: collapse;">
+
+      <tr style="border-bottom: 1px solid #30363d;">
+        <th align="left" style="padding: 8px;">Lab</th>
+        <th align="left" style="padding: 8px;">Topic</th>
+        <th align="left" style="padding: 8px;">View</th>
+      </tr>
+
+      <tr>
+        <td style="padding:8px;">Lab-I</td>
+        <td>Mini Shell</td>
+        <td><a href="https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab1">🔗</a></td>
+      </tr>
+
+      <tr>
+        <td style="padding:8px;">Lab-II</td>
+        <td>Threads</td>
+        <td><a href="https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab2">🔗</a></td>
+      </tr>
+
+      <tr>
+        <td style="padding:8px;">Lab-III</td>
+        <td>Semaphores</td>
+        <td><a href="https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab3">🔗</a></td>
+      </tr>
+
+    </table>
+
+  </div>
+
+</div>
 
     
 ## ML-I Lectures
