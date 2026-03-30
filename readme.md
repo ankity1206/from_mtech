@@ -1,10 +1,6 @@
 # MTech Notes
 
 ## OS Lectures
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-
-<!-- LEFT TABLE -->
-<div style="flex: 1; min-width: 300px;">
 
 <h3>Left Table</h3>
 
@@ -28,16 +24,9 @@
 <tr><td style="padding:8px;">Lecture 17</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture17-March13.pptx">🔗 View</a></td></tr>
 <tr><td style="padding:8px;">Lecture 18</td><td><a href="https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/OS/Lecture18-March19.pptx">🔗 View</a></td></tr>
 
-</table>
 
-</div>
-
-<!-- RIGHT TABLE -->
-<div style="flex: 1; min-width: 300px;">
 
 <h3>Right Table</h3>
-
-<table>
 <tr>
 <th>Column 1</th>
 <th>Column 2</th>
@@ -49,10 +38,6 @@
 </tr>
 
 </table>
-
-</div>
-
-</div>
 
 
 | Lecture No. | View(Online) |
