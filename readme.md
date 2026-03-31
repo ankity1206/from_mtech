@@ -75,6 +75,7 @@
 | Lecture 6 | Database Normalization | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Data%20Base%20Normalisation.pdf)|
 | Lecture 7 | Query Optimization | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Query%20Optimisation.pdf)|
 | Lecture 8 | Transaction Processing | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Class%20VII.pdf)|
+| Lecture 9 | Concurrency Control | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/DBMS/Class%20IX.pdf) |
 
 ### DBMS Lab
 
