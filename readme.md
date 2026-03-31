@@ -61,6 +61,7 @@
 | Lecture 25 | Gaussian Mixture model for clustering | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/GMM_MTech(CS).pdf) |
 | Lecture 26 | ANN | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/ANN_Slides.pptx) |
 | Lecture 26 | Deep Learning-I | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Deep%20Machine%20Learning%201.pptx) |
+| Lecture 27 | Classifier Performance Measure | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Perform_Measures_2025.pptx) |
 
 ## DBMS Lectures
 
