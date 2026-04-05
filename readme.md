@@ -30,6 +30,9 @@
 | Lab-II | Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab2) |
 | Lab-III | Semaphores & Thread Programming | [View Online](https://github.com/ankity1206/from_mtech/blob/main/OS/OS_Lab/Lab3) |
 
+### OS Project
+Page replacment visualisation [Open](https://github.com/ankity1206/from_mtech/blob/main/OS/page_replacement.html)
+
 ## ML-I Lectures
 
 | Lecture No. | Topic | View(Online) |
