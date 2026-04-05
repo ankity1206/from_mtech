@@ -1,0 +1,57 @@
+body {
+    background-color: #0f0d0e;
+    color: #00FEFE;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+input, select {
+    padding: 8px;
+    margin: 10px;
+    background: black;
+    color: cyan;
+    border: 1px solid cyan;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background: black;
+    color: cyan;
+    border: 2px solid cyan;
+    cursor: pointer;
+}
+
+button:hover {
+    background: cyan;
+    color: black;
+}
+
+table {
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid cyan;
+    padding: 10px;
+}
+
+.hit {
+    background-color: green;
+    color: white;
+}
+
+.miss {
+    background-color: red;
+    color: white;
+}
+
+.highlight {
+    background-color: yellow;
+    color: black;
+}

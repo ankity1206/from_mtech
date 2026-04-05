@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Page Replacement Visualizer</title>
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+    <h1>Page Replacement Visualizer</h1>
+
+    <div>
+        <input type="text" id="input_string" placeholder="e.g. 7 0 1 2 0 3 0 4">
+        <input type="number" id="frame_size" placeholder="Frames">
+        
+        <select id="algorithm">
+            <option value="">Select Algorithm</option>
+            <option value="FIFO">FIFO</option>
+            <option value="Optimal">Optimal</option>
+            <option value="LRU">LRU</option>
+        </select>
+    </div>
+
+    <button onclick="visualize()">Visualize</button>
+    <button onclick="resetPage()">Reset</button>
+
+    <div id="output"></div>
+    <div id="summary"></div>
+</div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
