@@ -65,6 +65,10 @@ Page replacment visualisation [Open](https://github.com/ankity1206/from_mtech/bl
 | Lecture 26 | ANN | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/ANN_Slides.pptx) |
 | Lecture 26 | Deep Learning-I | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Deep%20Machine%20Learning%201.pptx) |
 | Lecture 27 | Classifier Performance Measure | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/Perform_Measures_2025.pptx) |
+| Lecture 28 | Optimisation for Deep Learning | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/optimize_Deep.pps.ppt) |
+| Lecture 29 | Deep Convolutional Neural Architectures | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/CNN_DL_2020.ppsx) |
+| Lecture 30 | Convolution Arithmetic and Details of CNN Training | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/CNN_Details.pptx) |
+| Lecture 30 | Tips for Training DNN | [View Online](https://docs.google.com/viewer?url=https://github.com/ankity1206/from_mtech/raw/refs/heads/main/ML-1/CNN_Details2.ppsx) |
 
 ## DBMS Lectures
 
